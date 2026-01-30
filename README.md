@@ -93,8 +93,5 @@ Gym Management System – ASP.NET Core MVC app with 3-layer architecture
 E-Commerce REST API – Onion architecture, JWT, Redis caching
 Bookly App – listing books focused mobile app with API from google books
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osama-g-hamed&show_icons=true)
-![Profile Views](https://komarev.com/ghpvc/?username=osama-g-hamed)
 
 
