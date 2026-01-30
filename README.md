@@ -14,7 +14,7 @@
 🚀 Focused on **problem solving, continuous learning, and writing high-quality code**.  
 🌱 Continuously exploring **Clean Architecture, Unit Testing, and advanced backend practices**. 
 <br><br>
-📫 How to reach me: **osama.gamal@gmail.com**
+📫 How to reach me: **osama.gamalhamed@gmail.com**
 
 ---
 
