@@ -13,6 +13,7 @@
 ⚡ Passionate about building **clean, scalable, and maintainable applications** using modern architectures.  
 🚀 Focused on **problem solving, continuous learning, and writing high-quality code**.  
 🌱 Continuously exploring **Clean Architecture, Unit Testing, and advanced backend practices**. 
+
 💡 Interested in discussing **backend design decisions, performance optimization, and .NET best practices**.  
 💬 Feel free to ask me about anything backend related.  
 <br><br>
