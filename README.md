@@ -42,6 +42,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 
 ---
 
@@ -90,5 +94,7 @@ E-Commerce REST API – Onion architecture, JWT, Redis caching
 Bookly App – listing books focused mobile app with API from google books
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=osama-g-hamed&theme=vision-friendly-dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=osama-g-hamed&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osama-g-hamed&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=osama-g-hamed)
+
+
