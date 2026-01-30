@@ -29,7 +29,7 @@
 Backend Developer + Mobile Developer | Flutter • .NET 
 Mobile Apps • Web APIs • Clean Code
 
-
+---
 🛠 Tech Stack
 
 Backend: C#, ASP.NET Core, Entity Framework Core, SQL Server, REST APIs
@@ -40,6 +40,7 @@ Frontend: JavaScript, HTML, CSS, Bootstrap
 
 Tools: Git, GitHub, Postman, Visual Studio, VS Code
 
+--- 
 💼 Training
 Route — .NET Developer Intern
 05/2025 – 12/2025
@@ -50,13 +51,12 @@ Implemented JWT authentication & layered architecture
 
 Used Git for version control and agile workflows
 
-Mentored members on UI/UX best practices
-
-Developed mobile apps with Flutter & Dart
-
 Created backend services with .NET Core Web APIs
 
+---
+
 📜 Certifications
+---
 
 Backend .NET Core diploma at Route
 
@@ -67,6 +67,7 @@ Flutter Advanced Course Bloc and MVVM Pattern on udemy.
 
 
 📁 Projects
+---
 Gym Management System – ASP.NET Core MVC app with 3-layer architecture
 E-Commerce REST API – Onion architecture, JWT, Redis caching
 Bookly App – listing books focused mobile app with API from google books
