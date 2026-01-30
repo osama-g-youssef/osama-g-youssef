@@ -13,8 +13,6 @@
 ⚡ Passionate about building **clean, scalable, and maintainable applications** using modern architectures.  
 🚀 Focused on **problem solving, continuous learning, and writing high-quality code**.  
 🌱 Continuously exploring **Clean Architecture, Unit Testing, and advanced backend practices**. 
-⚡ Passionate about building clean, scalable, and maintainable applications using modern architectures.
-🎨 Passionate about user experience, performance, and responsive UI using flutter.
 💡 Interested in discussing **backend design decisions, performance optimization, and .NET best practices**.  
 💬 Feel free to ask me about anything backend related.  
 <br><br>
@@ -90,7 +88,9 @@ Flutter Advanced Course Bloc and MVVM Pattern on udemy.
 📁 Projects
 ---
 Gym Management System – ASP.NET Core MVC app with 3-layer architecture
+
 E-Commerce REST API – Onion architecture, JWT, Redis caching
+
 Bookly App – listing books focused mobile app with API from google books
 
 
